@@ -1,2 +1,2 @@
-# BASH_script
+# Network Trace script
 This is a BASH script to print the routing trace from the source to a given destination node. To use the script, it must be uploaded to the desired source node in a given network topology. Then run the following on the command line to change the permissions of the script file: ```chmod 755 destination.bash```. Then run the script: ```./destination.bash```. The user will then be prompted to enter a destination node, and once the destination is inputted the script will print the desired output.
